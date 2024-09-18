@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scottish-Scientist
 - 👀 I’m interested in ... https://github.com/grico1974/WhamoLauncher - I'm just trying to contact the author to get basic help of how to install his software on my PC
-- but I can't get anywhere on this site. I don't know how to message anyone. I can't start a post in the community forum. This is the only place I can type a message.
+- but I can't get anywhere on this site. I don't know how to message anyone.
 - I'm totally stuck. 
 - 
 - 🌱 I’m currently learning ...
